@@ -1,1 +1,1 @@
-This is a Readme for ALX databases intro
+This is a Readme for ALX SQL databases intro
